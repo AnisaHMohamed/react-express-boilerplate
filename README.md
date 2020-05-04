@@ -23,7 +23,8 @@ npm run client
 ```
 
 ## App Info
-!["App Main"](https://github.com/AnisaHMohamed/react-express-boilerplate/blob/master/docs/React-Express%20Hobby%20Component.png?raw=true)
+!["Home Page"](https://github.com/AnisaHMohamed/react-express-boilerplate/blob/master/docs/React-Express%20Hobby%20Component.png?raw=true)
+
 ### Author
 
 Anisa Mohamed
